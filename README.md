@@ -75,8 +75,8 @@ public class FoodDeliveryApp {
 
         trackOrder(email);
 
-        System.out.println("\n✅ Thank you for ordering with FastBite!");
-        System.out.println("Your delicious meal is on the way!");
+        System.out.println("\n✅ Thank you for ordering with GBG Eats!");
+        System.out.println("Your special meal is on its way!");
     }
 
     private static void displayMenu() {
